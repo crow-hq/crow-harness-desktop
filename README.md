@@ -57,12 +57,12 @@ Crow Harness 0.1.0, released 27 November 2026:
 | System | For | Download | Size |
 |---|---|---|---|
 | **macOS** | Apple silicon (M1 and later) | [Crow-Harness_0.1.0_aarch64.dmg](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.0/Crow-Harness_0.1.0_aarch64.dmg) | 32 MB |
-| **macOS** | Intel | [Crow-Harness_0.1.0_x64.dmg](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.0/Crow-Harness_0.1.0_x64.dmg) | 33 MB |
+| **macOS** | Intel | [Crow-Harness_0.1.0_x64.dmg](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.0/Crow-Harness_0.1.0_x64.dmg) | 34 MB |
+| **Windows** | Installer (.exe) | [Crow-Harness_0.1.0_x64-setup.exe](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.0/Crow-Harness_0.1.0_x64-setup.exe) | 34 MB |
+| **Windows** | Installer for IT (.msi) | [Crow-Harness_0.1.0_x64_en-US.msi](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.0/Crow-Harness_0.1.0_x64_en-US.msi) | 35 MB |
 | **Linux** | AppImage, any distribution | [Crow-Harness_0.1.0_amd64.AppImage](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.0/Crow-Harness_0.1.0_amd64.AppImage) | 118 MB |
 | **Linux** | Debian, Ubuntu (.deb) | [Crow-Harness_0.1.0_amd64.deb](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.0/Crow-Harness_0.1.0_amd64.deb) | 40 MB |
 | **Linux** | Fedora, openSUSE (.rpm) | [Crow-Harness-0.1.0-1.x86_64.rpm](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.0/Crow-Harness-0.1.0-1.x86_64.rpm) | 40 MB |
-
-**Windows:** the installers join this release as soon as they pass their tests on Windows.
 
 Every file of this version is on its [release page](https://github.com/crow-hq/crow-harness-desktop/releases/tag/v0.1.0); older versions are under
 [Releases](https://github.com/crow-hq/crow-harness-desktop/releases).
