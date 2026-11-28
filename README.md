@@ -10,7 +10,7 @@ Type in one box: Crow Harness sends the message to the right Claude Code session
 or starts a new one. Every session shares one memory, and Telegram reaches them from your phone.</p>
 
 <p align="center">
-  <a href="#download"><b>Download Crow Harness 0.1.3</b></a> ·
+  <a href="#download"><b>Download Crow Harness 0.1.4</b></a> ·
   <a href="#install-the-builds-are-not-signed-yet">Install help</a> ·
   <a href="#what-you-need">What you need</a>
 </p>
@@ -52,19 +52,19 @@ message in. A message that fits nothing starts a new session in the folder you c
 
 ## Download
 
-Crow Harness 0.1.3, released 28 November 2026:
+Crow Harness 0.1.4, released 28 November 2026:
 
 | System | For | Download | Size |
 |---|---|---|---|
-| **macOS** | Apple silicon (M1 and later) | [Crow-Harness_0.1.3_aarch64.dmg](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_aarch64.dmg) | 32 MB |
-| **macOS** | Intel | [Crow-Harness_0.1.3_x64.dmg](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_x64.dmg) | 34 MB |
-| **Windows** | Installer (.exe) | [Crow-Harness_0.1.3_x64-setup.exe](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_x64-setup.exe) | 34 MB |
-| **Windows** | Installer for IT (.msi) | [Crow-Harness_0.1.3_x64_en-US.msi](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_x64_en-US.msi) | 35 MB |
-| **Linux** | AppImage, any distribution | [Crow-Harness_0.1.3_amd64.AppImage](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_amd64.AppImage) | 119 MB |
-| **Linux** | Debian, Ubuntu (.deb) | [Crow-Harness_0.1.3_amd64.deb](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_amd64.deb) | 40 MB |
-| **Linux** | Fedora, openSUSE (.rpm) | [Crow-Harness-0.1.3-1.x86_64.rpm](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness-0.1.3-1.x86_64.rpm) | 40 MB |
+| **macOS** | Apple silicon (M1 and later) | [Crow-Harness_0.1.4_aarch64.dmg](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.4/Crow-Harness_0.1.4_aarch64.dmg) | 32 MB |
+| **macOS** | Intel | [Crow-Harness_0.1.4_x64.dmg](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.4/Crow-Harness_0.1.4_x64.dmg) | 34 MB |
+| **Windows** | Installer (.exe) | [Crow-Harness_0.1.4_x64-setup.exe](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.4/Crow-Harness_0.1.4_x64-setup.exe) | 34 MB |
+| **Windows** | Installer for IT (.msi) | [Crow-Harness_0.1.4_x64_en-US.msi](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.4/Crow-Harness_0.1.4_x64_en-US.msi) | 35 MB |
+| **Linux** | AppImage, any distribution | [Crow-Harness_0.1.4_amd64.AppImage](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.4/Crow-Harness_0.1.4_amd64.AppImage) | 119 MB |
+| **Linux** | Debian, Ubuntu (.deb) | [Crow-Harness_0.1.4_amd64.deb](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.4/Crow-Harness_0.1.4_amd64.deb) | 40 MB |
+| **Linux** | Fedora, openSUSE (.rpm) | [Crow-Harness-0.1.4-1.x86_64.rpm](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.4/Crow-Harness-0.1.4-1.x86_64.rpm) | 40 MB |
 
-Every file of this version is on its [release page](https://github.com/crow-hq/crow-harness-desktop/releases/tag/v0.1.3); older versions are under
+Every file of this version is on its [release page](https://github.com/crow-hq/crow-harness-desktop/releases/tag/v0.1.4); older versions are under
 [Releases](https://github.com/crow-hq/crow-harness-desktop/releases).
 
 ## Install (the builds are not signed yet)
