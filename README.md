@@ -57,6 +57,12 @@ Crow Harness 0.1.3, released 28 November 2026:
 | System | For | Download | Size |
 |---|---|---|---|
 | **macOS** | Apple silicon (M1 and later) | [Crow-Harness_0.1.3_aarch64.dmg](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_aarch64.dmg) | 32 MB |
+| **macOS** | Intel | [Crow-Harness_0.1.3_x64.dmg](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_x64.dmg) | 34 MB |
+| **Windows** | Installer (.exe) | [Crow-Harness_0.1.3_x64-setup.exe](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_x64-setup.exe) | 34 MB |
+| **Windows** | Installer for IT (.msi) | [Crow-Harness_0.1.3_x64_en-US.msi](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_x64_en-US.msi) | 35 MB |
+| **Linux** | AppImage, any distribution | [Crow-Harness_0.1.3_amd64.AppImage](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_amd64.AppImage) | 119 MB |
+| **Linux** | Debian, Ubuntu (.deb) | [Crow-Harness_0.1.3_amd64.deb](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness_0.1.3_amd64.deb) | 40 MB |
+| **Linux** | Fedora, openSUSE (.rpm) | [Crow-Harness-0.1.3-1.x86_64.rpm](https://github.com/crow-hq/crow-harness-desktop/releases/download/v0.1.3/Crow-Harness-0.1.3-1.x86_64.rpm) | 40 MB |
 
 Every file of this version is on its [release page](https://github.com/crow-hq/crow-harness-desktop/releases/tag/v0.1.3); older versions are under
 [Releases](https://github.com/crow-hq/crow-harness-desktop/releases).
